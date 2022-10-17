@@ -1,22 +1,5 @@
-# <p align="center"> *Hello!!<img src="https://media2.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="waving hand" width="30px">I'm KiemTran* 🎯️🚀️</p>
+# <p align="center"> *Hello!!<img src="https://media2.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="waving hand" width="30px">It's me Kien Mai 🎯️🚀️</p>
 *About Me*
-
-<a href="https://twitter.com/KiemTranDev">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://www.svgrepo.com/show/183608/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/kiem-tran-012808228/">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://www.svgrepo.com/show/138936/linkedin.svg" />
-</a>
-<a href="https://github.com/VanKiem-Tran">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://www.svgrepo.com/show/217753/github.svg" />
-</a>
-<a href="https://www.facebook.com/vankiemh">
-  <img align="left" alt="Pawan's Facebook" width="22px" src="https://www.svgrepo.com/show/111203/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/">
-  <img align="left" alt="Pawan's Facebook" width="22px" src="https://www.svgrepo.com/show/77415/youtube.svg" />
-</a>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
 
 <br/>
 <br/>
